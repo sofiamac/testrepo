@@ -1,6 +1,6 @@
 # testrepo
 ## test
 ### test
-*uno
-*dos
-*tres
+* uno
+* dos
+* tres
